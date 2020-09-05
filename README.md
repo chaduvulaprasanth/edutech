@@ -41,6 +41,7 @@ Providing the wholesome platform turn an institute to online with a touch of a b
 	 
 **Sprint2**
 
+ - Communication groups
  - Smart attendance 
  - Insightful student reports
  - Fee records
