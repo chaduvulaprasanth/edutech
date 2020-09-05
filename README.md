@@ -1,24 +1,32 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Edutech
 
-Things you may want to cover:
+This project is intended to make a social learning platform for educational institutes to teach in online with their instructors to students (mainly focused in Indian tier2 and tier3 places where affording software and maintaining it is not easy). Made by the [Chaduvula Prasanth](https://github.com/chaduvulaprasanth) and  [Swastik Yadav](https://github.com/Swastikyadav) 
 
-* Ruby version
+Providing the wholesome platform turn an institute to online with a touch of a button. Empowering institutes, schools and instructors to teach online.
 
-* System dependencies
 
-* Configuration
+**Sprint 1**
+ - Institute admin
+ - A centralised dashboard for the institute
+ - Instructor panel
+ - Courseware
+ - Single dashboard for the student to access all their institute course
 
-* Database creation
+**Sprint1 explanation**
+ - **Institute dashboard**
+	 - Institute have dashboard and admin
+	 - Can add instructors (teachers)
+	 - instructors can add courses
+	 - Can add Students 
+	 - Can add course categories and tracks
+	 - Have all the controlls on instructor, students and course
+ - **Instructor**
+	 - Can add and update course
+	 -  Track students learnings	
+ - **Student**
+	 - Can see all the courses ( only ones which have access)
+	 - Can see course learning curve 
+	 
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
