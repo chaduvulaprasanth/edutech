@@ -1,8 +1,9 @@
 # Edutech -  A better learning experience for every student
 
-This project is intended to make a social learning platform for educational institutes to teach in online with their instructors to students (mainly focused in Indian tier2 and tier3 places where affording software and maintaining it is not easy). Made by the [Chaduvula Prasanth](https://github.com/chaduvulaprasanth) and  [Swastik Yadav](https://github.com/Swastikyadav) 
+This project is intended to make a social learning platform for educational institutes to teach in online with their instructors to students (mainly focused in Indian tier2 and tier3 places where affording software and maintaining it is not easy). Made by the [Chaduvula Prasanth](https://github.com/chaduvulaprasanth
 
 Edutech is the Learning Experience Platform for Higher Education. We make it easy for all educators to deliver high quality learning experiences to every student, in every course.
+
 Providing the wholesome platform turn an institute to online with a touch of a button. Empowering institutes, schools and instructors to teach online.
 
 
